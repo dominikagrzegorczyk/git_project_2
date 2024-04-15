@@ -1,4 +1,10 @@
 print('hello wolrd')
+<<<<<<< HEAD
 printtt 
 wudygdbuywehduyds cbiher (((((((((((ff+f+6+f1fmfhdb)
 fgbv dcefvrgtbhyju7ki8loikujyhtgrfedwsaxdfr
+=======
+helloo dwe
+ide plakac
+>>>>>>> development
+koelna zmiana
